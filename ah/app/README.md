@@ -1,0 +1,1 @@
+tutotial realizado seguindo as orientações de: https://code.tutsplus.com/pt/tutorials/an-introduction-to-pythons-flask-framework--net-28822 

@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "ah\\Scripts\\python.exe",
+    "python.testing.pytestArgs": [
+        "ah"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
